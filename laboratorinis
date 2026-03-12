@@ -1,4 +1,4 @@
 <?php
 echo "Labas pasauli!";
-echo "pridedu nauja eilute";
+echo "Itryniau eilute ir pridedu sita eilute";
 ?>
