@@ -1,2 +1,2 @@
-#Laboratorinis darbas
-##Mokomes naudotis git ir github
+# Laboratorinis darbas
+## Mokomes naudotis git ir github
